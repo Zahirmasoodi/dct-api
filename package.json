@@ -1,0 +1,19 @@
+{
+  "name": "dream-come-true-server",
+  "version": "1.0.0",
+  "description": "A simple Rest API for the registration and retreival of data",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dct-server",
+    "dct-backend"
+  ],
+  "author": "zahirmasoodi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
