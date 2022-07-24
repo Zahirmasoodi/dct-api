@@ -9,7 +9,7 @@ Clone the repo on your computer and then run the following commands. Ensure you 
 Set up a local server using these command
 
 ```sh
-nodemon server.js OR nodemon (if you have already installed it)
+node server.js OR nodemon (if you have already installed it)
 ```
 
 The local express server will listen at PORT 4000
