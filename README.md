@@ -18,12 +18,12 @@ The local express server will listen at PORT 4000
 
 - User registration
 ```sh
-POST http://localhost:4001/register-a-user
+POST http://localhost:4000/register-a-user
 ```
 
 - Fetch all registered users
 ```sh
-GET http://localhost:4001/get-all-users
+GET http://localhost:4000/get-all-users
 ```
 
 ## Support
